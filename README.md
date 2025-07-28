@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joel!😄</h1>
+<h1>Hi, I'm Joël!😄</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
