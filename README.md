@@ -22,8 +22,8 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://profile.coursecareers.com/it/anthony.hamilton" target="_blank">
-        <img alt="CourseCareers | Anthony" width="22px" src="https://i.imgur.com/qfefsPG.png" />
+      <a href="https://profile.coursecareers.com/it/" target="_blank">
+        <img alt="CourseCareers | Joel" width="22px" src="https://i.imgur.com/qfefsPG.png" />
         <br>CourseCareers Profile
       </a>
     </td>
