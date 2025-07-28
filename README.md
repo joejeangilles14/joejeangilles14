@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joel, an <a href="https://www.linkedin.com/in/joeljeangilles/">IT Professional</a></h1>
+<h1>Hi, I'm Joel!😄</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
