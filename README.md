@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joejeangilles14/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joejeangilles14/azure-network-protocols)
-
+- <b>Vitrual Private Network (VPN)</b>
+  - [VPN Setup and Usage with Proton VPN](https://github.com/joejeangilles14/setup-vpn)
 <h2>🤳Connect with me:</h2>
 
 
