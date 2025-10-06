@@ -10,7 +10,7 @@
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/joejeangilles14/ad-infrastructure)
   - [Deploying Active Directory](https://github.com/joejeangilles14/deploy-ad)
   - [Creating Users with Powershell](https://github.com/joejeangilles14/powershell)
-  - [Group Policy and Managing Accounts](https://github.com/joejeangilles14/gp-ma)
+  - [Group Policy and Managing Accounts](https://github.com/joejeangilles14/grouppolicy-manageaccounts)
 - <b>Vitrual Private Network (VPN)</b>
   - [VPN Setup and Usage with Proton VPN](https://github.com/joejeangilles14/setup-vpn)
 <h2>🤳Connect with me:</h2>
