@@ -6,9 +6,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/joejeangilles14/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joejeangilles14/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joejeangilles14/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joejeangilles14/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joejeangilles14/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/joejeangilles14/ad-infrastructure)
+  - [Deploying Active Directory](https://github.com/joejeangilles14/deploy-ad)
+  - [Creating Users with Powershell](https://github.com/joejeangilles14/powershell)
+  - [Group Policy and Managing Accounts](https://github.com/joejeangilles14/gp-ma)
 - <b>Vitrual Private Network (VPN)</b>
   - [VPN Setup and Usage with Proton VPN](https://github.com/joejeangilles14/setup-vpn)
 <h2>🤳Connect with me:</h2>
